@@ -7,7 +7,7 @@ I'm a passionate Computer Science student, just got my bachelor's degree. I'm cu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eDyrr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eDyrr&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech and coding.
