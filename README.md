@@ -1,2 +1,3 @@
 Average Thinkpad User
-<iframe src="https://giphy.com/embed/CAYVZA5NRb529kKQUc" width="286" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chad-gigachad-giga-CAYVZA5NRb529kKQUc">via GIPHY</a></p>
+
+![Gigachad](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG53em8zbXM2MGozMWZsd3NrNjc2bWI5aXZhamQ2OWNhb2ptanh6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAYVZA5NRb529kKQUc/giphy.gif)
