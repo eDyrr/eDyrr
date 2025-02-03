@@ -1,3 +1,3 @@
 Average Thinkpad Programmer
 
-![Gigachad](https://www.reddit.com/r/thinkpad/comments/lg7htm/average_thinkpad_user/#lightbox)
+![Gigachad](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwMHNjdG12ajJsZDIxMWkzN3ZocmY5ZWt5NGN4c2hiZ3l4MHhidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CAYVZA5NRb529kKQUc/giphy.gif)
